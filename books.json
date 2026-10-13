@@ -1,0 +1,2723 @@
+[
+  {
+    "id": "01a12bb1-c5d9-71cf-a477-d2d34693776b",
+    "title": "Иисус, которого я не знал. 5-е издание",
+    "author_ids": [
+      "01a12bb3-1bd9-74e5-9a08-0f34bca3a9f1"
+    ],
+    "read": true,
+    "rating": 7,
+    "started": "10.2026",
+    "finished": "10.2026",
+    "publication_year": 2014,
+    "publication_country": "РФ",
+    "publisher_id": "01a12bb4-2a2d-7665-9c1f-123e83987b6a",
+    "isbn": "978-5-86181-541-3",
+    "cover_url": "./assets/book_covers/filip_iansi_iisus_kotorogo_ia_ne_znal.png",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2024"
+  },
+  {
+    "id": "01a12bc0-b630-71de-b72d-d511fc9f7452",
+    "title": "Дыра в нашей святости",
+    "author_ids": [
+      "01a12bc0-e2ef-71a9-aacd-30fc9bf8be85"
+    ],
+    "read": true,
+    "rating": 8,
+    "started": "10.2026",
+    "finished": "10.2026",
+    "publication_year": 2019,
+    "publication_country": "РБ",
+    "publisher_id": "01a12bc6-7a12-722f-a2f1-cb758b22a861",
+    "isbn": "978-985-7193-37-0",
+    "cover_url": "./assets/book_covers/kevin_deiang_dyra_v_nashei_sviatosti.png",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "01a12bc9-1dd9-71e5-8912-72a8c6b50c32",
+    "title": "Крест и нож",
+    "author_ids": [
+      "01a12bc9-3cdb-710e-9446-0e30178cf1b2",
+      "01a12bc9-86bb-70fb-87cc-56ad6550a9a8",
+      "01a12bc9-ae42-705c-b678-e5c983c5c494"
+    ],
+    "read": true,
+    "rating": 9,
+    "started": "10.2026",
+    "finished": "10.2026",
+    "publication_year": 2026,
+    "publication_country": "РФ",
+    "publisher_id": "01a12bd0-31f0-779f-b054-4b4e8cfe4e6a",
+    "isbn": "978-5-8445-0352-8",
+    "cover_url": "./assets/book_covers/david_vilkerson_krest_i_nozh.png",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "01a12bd9-9a70-767a-a2e2-d9f7977e55de",
+    "title": "Святой Дух. Введение",
+    "author_ids": [
+      "01a12bd9-dbd2-769b-8073-f41ad4f4a412",
+      "01a12bd9-f399-771d-9321-85c1d427e7c9"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2014,
+    "publication_country": "РФ",
+    "publisher_id": "01a12bdd-0b04-75f1-b0dc-90095720244f",
+    "isbn": "978-5-91943-024-7",
+    "cover_url": "./assets/book_covers/dzhon_biver_sviatoi_dukh_vvedenie.webp",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "01a12be5-6069-758c-b1ed-72825511e2a8",
+    "title": "Новый Завет. Библейские переводы Андрея Десницкого. 2-е издание",
+    "author_ids": [
+      "01a12be5-28fe-75a3-8665-67ae4a9a8e35",
+      "01a12be3-c5b1-717c-9062-732073d72233"
+    ],
+    "read": true,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2026,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c06-1871-73fd-bd8b-c06cea622708",
+    "isbn": "978-5-906456-81-6",
+    "cover_url": "./assets/book_covers/andrei_desnitskii_novyi_zavet.webp",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "01a12c0a-99b9-735a-bbed-10d44140e9f8",
+    "title": "Atlas Obscura. Самые необыкновенные места планеты. 4-е издание",
+    "author_ids": [
+      "01a12c15-6e6e-712e-aff7-8102400deb04"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2024,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00169-257-7",
+    "cover_url": "./assets/book_covers/dzhoshua_foer_atlas_obscura.png",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
+    ],
+    "ebook_id": "",
+    "purchased_at": "24.08.2026"
+  },
+  {
+    "id": "01a12c1a-ac0b-76c9-ad6e-ad48d263e24f",
+    "title": "Хижина",
+    "author_ids": [
+      "01a13123-80fe-73fd-b47b-0f6acd2920ee"
+    ],
+    "read": true,
+    "rating": 8,
+    "started": "",
+    "finished": "",
+    "publication_year": 2017,
+    "publication_country": "РФ",
+    "publisher_id": "01a13124-7128-73cc-b111-43e0a1c154b7",
+    "isbn": "978-5-699-90022-0",
+    "cover_url": "./assets/book_covers/uiliam_pol_iang_khizhina.webp",
+    "category_ids": [
+      "01a12b9d-9459-7090-818f-dc2b10bf0e64",
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "01a13134-73ff-707f-afe5-27af0778f2e0",
+    "title": "Скотный двор",
+    "author_ids": [
+      "01a13135-07eb-7275-9354-129f1972c60e"
+    ],
+    "read": true,
+    "rating": 9,
+    "started": "2021",
+    "finished": "2021",
+    "publication_year": 2021,
+    "publication_country": "РФ",
+    "publisher_id": "01a13134-24b0-715d-a432-8cd924a1fb02",
+    "isbn": "978-5-17-112604-9",
+    "cover_url": "./assets/book_covers/dzhordzh_oruehll_skotnyi_dvor.webp",
+    "category_ids": [
+      "01a12b9d-9459-7090-818f-dc2b10bf0e64"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2021"
+  },
+  {
+    "id": "01a13146-6e7d-777b-9ca2-82b45c3669a6",
+    "title": "Ваби-саби. Японская философия для художников, дизайнеров и писателей",
+    "author_ids": [
+      "01a13140-d8ba-74a8-a579-f672a7a35725"
+    ],
+    "read": true,
+    "rating": 8,
+    "started": "2020",
+    "finished": "2020",
+    "publication_year": 2019,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00117-689-3",
+    "cover_url": "./assets/book_covers/leonard_koren_vabi_sabi.png",
+    "category_ids": [
+      "01a12b9d-1fb2-76e6-9ab2-7f157c635c95"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2020"
+  },
+  {
+    "id": "01a13147-ffa3-7495-95cc-398122aa0cf8",
+    "title": "Скорочтение. Как запоминать больше, читая в 8 раз быстрее",
+    "author_ids": [
+      "01a13148-9736-7478-9a74-ab9bc62e0d63"
+    ],
+    "read": true,
+    "rating": null,
+    "started": "2020",
+    "finished": "2020",
+    "publication_year": 2020,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00146-709-0",
+    "cover_url": "./assets/book_covers/piter_kamp_skorochtenie.png",
+    "category_ids": [
+      "01a12b9d-7b09-761b-bb0b-d9bf4f74139a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2020"
+  },
+  {
+    "id": "01a1314d-f9e2-7093-bb65-531854787854",
+    "title": "Подумайте ещё раз. Сила знания о незнании",
+    "author_ids": [
+      "01a1314e-c6cb-731a-aa3c-d05f01f6da9c"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2022,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00195-057-8",
+    "cover_url": "./assets/book_covers/adam_grant_podumaite_eshche_raz.png",
+    "category_ids": [
+      "01a12b9d-7b09-761b-bb0b-d9bf4f74139a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "18.03.2024"
+  },
+  {
+    "id": "01a13150-5ff5-712b-82a5-4bd274be2ae9",
+    "title": "Без усилий. Пусть главное станет проще",
+    "author_ids": [
+      "01a13153-abb7-76e3-a5d3-80a1a57909e0"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2022,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00195-375-3",
+    "cover_url": "./assets/book_covers/greg_makkeon_bez_usilii.png",
+    "category_ids": [
+      "01a12b9d-7b09-761b-bb0b-d9bf4f74139a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "28.11.2024"
+  },
+  {
+    "id": "01a13157-b752-739f-8590-54314a4b1f40",
+    "title": "Словарь цвета для дизайнеров",
+    "author_ids": [
+      "01a13157-8472-7754-85be-c47634398f8a"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2020,
+    "publication_country": "РФ",
+    "publisher_id": "01a13159-c381-725c-b78c-c7555259021d",
+    "isbn": "978-5-389-13369-3",
+    "cover_url": "./assets/book_covers/shon_adams_slovar_tsveta_dlia_dizainerov.webp",
+    "category_ids": [
+      "01a12b9d-0ed4-77e5-81a5-48bc0fe84aed",
+      "01a12b9c-da0c-71e7-8d26-0dad38041193"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2022"
+  },
+  {
+    "id": "01a13172-b82e-76ff-8de3-e6710465f408",
+    "title": "Не просто плотник",
+    "author_ids": [
+      "01a13167-87d7-7331-abab-cef85b706b3c",
+      "01a13169-8a54-749e-9b48-200ff56e62a6"
+    ],
+    "read": true,
+    "rating": 9,
+    "started": "2017",
+    "finished": "2017",
+    "publication_year": 2014,
+    "publication_country": "РФ",
+    "publisher_id": "01a13172-7f66-7689-a88b-ce0e6edc1183",
+    "isbn": "978-5-7454-1342-1",
+    "cover_url": "./assets/book_covers/dzhosh_makdauehll_ne_prosto_plotnik.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2017"
+  },
+  {
+    "id": "01a13175-475a-75b8-b374-3f175a489745",
+    "title": "Глупость мудреца. Хроники пустой жизни",
+    "author_ids": [
+      "01a13175-8b1b-76cf-b7ef-cfcdf5ff47d6"
+    ],
+    "read": true,
+    "rating": null,
+    "started": "2017",
+    "finished": "2017",
+    "publication_year": 2009,
+    "publication_country": "РБ",
+    "publisher_id": "01a12bc6-7a12-722f-a2f1-cb758b22a861",
+    "isbn": "978-985-454-445-8",
+    "cover_url": "./assets/book_covers/sinkler_ferguson_glupost_mudretsa.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532", "01a12b9d-9459-7090-818f-dc2b10bf0e64"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2017"
+  },
+  {
+    "id": "01a13188-446a-73c8-845c-fe3a60a57582",
+    "title": "Поиск верных решений. 2-е издание",
+    "author_ids": [
+      "01a13167-87d7-7331-abab-cef85b706b3c",
+      "01a13188-ca7e-709e-acb0-42df93bf1df8"
+    ],
+    "read": true,
+    "rating": 8,
+    "started": "2017",
+    "finished": "2017",
+    "publication_year": 2016,
+    "publication_country": "РФ",
+    "publisher_id": "01a13172-7f66-7689-a88b-ce0e6edc1183",
+    "isbn": "978-5-7454-1404-6",
+    "cover_url": "./assets/book_covers/dzhosh_makdauehll_poisk_vernykh_reshenii.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2017"
+  },
+  {
+    "id": "01a1318f-4e79-77dc-933f-acb64d39876f",
+    "title": "Расточительный Бог. Возрождение основ христианской веры",
+    "author_ids": [
+      "01a1318f-06cb-739c-96e8-5a71c3da1d8b"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2016,
+    "publication_country": "РФ",
+    "publisher_id": "01a13190-76c7-7059-b3b4-75c2382887f2",
+    "isbn": "978-5-88869-309-4",
+    "cover_url": "./assets/book_covers/timoti_keller_rastochitelnyi_bog.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2025"
+  },
+  {
+    "id": "01a13192-4d41-75df-a831-fe330e77de88",
+    "title": "Духовная зрелость. Как возрастать духовно самому и созидать поместную церковь",
+    "author_ids": [
+      "01a13192-294b-76cc-9a3c-7f400bbef2ee"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2021,
+    "publication_country": "РФ",
+    "publisher_id": "01a13197-5e9c-7599-ac6a-7a99e26052bf",
+    "isbn": "978-5-74541-674-3",
+    "cover_url": "./assets/book_covers/aleksandr_gurtaev_dukhovnaia_zrelost.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2024"
+  },
+  {
+    "id": "01a13198-6e35-73a7-86fa-7c5e9baefa01",
+    "title": "10 рецептов счастья в браке",
+    "author_ids": [
+      "01a13167-87d7-7331-abab-cef85b706b3c"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2017,
+    "publication_country": "РФ",
+    "publisher_id": "01a13199-8e69-71af-ad1e-3b177476734d",
+    "isbn": "978-5-9907921-6-6",
+    "cover_url": "./assets/book_covers/",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2025"
+  },
+  {
+    "id": "01a131a0-5a93-7149-860f-667656c50516",
+    "title": "Видеть себя глазами Бога",
+    "author_ids": [
+      "01a131a0-8d1d-7669-984a-7459371b9b9b"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2004,
+    "publication_country": "РФ",
+    "publisher_id": "01a131a3-b503-75cf-ae94-f6c731d17215",
+    "isbn": "978-5-98431-008-2",
+    "cover_url": "./assets/book_covers/",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "01a131a8-50ae-720d-b961-0fbb6ca1c6c5",
+    "title": "Капли из протекающего крана",
+    "author_ids": [
+      "01a131a8-9270-72d9-b746-4e1f38928464"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2008,
+    "publication_country": "Украина",
+    "publisher_id": "01a131ad-23cd-752b-9c12-66ed8267516c",
+    "isbn": "978-617-503-143-8",
+    "cover_url": "./assets/book_covers/dzhordzh_verver_kapli_iz_protekaiushchego_krana.webp",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "01a131af-f589-75d8-8c17-76fbdf4cbe9b",
+    "title": "Трость надломленная и лён курящий",
+    "author_ids": [
+      "01a131af-c413-727c-964c-acf95ee7e8d2"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2011,
+    "publication_country": "РФ",
+    "publisher_id": "01a131b8-fac3-75b2-ac8d-444a789dcbed",
+    "isbn": "978-5-93434-124-5",
+    "cover_url": "./assets/book_covers/richard_sibbs_trost_nadlomlennaia_i_len_kuriashchii.png",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "01a131ba-9e94-751c-8153-88e919bd3f81",
+    "title": "Вот твоё счастье. Подлинное и нерушимое",
+    "author_ids": [
+      "01a131ba-8eb1-7729-a3ae-12df20a00592"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2020,
+    "publication_country": "РФ",
+    "publisher_id": "01a13124-7128-73cc-b111-43e0a1c154b7",
+    "isbn": "978-5-04-099623-0",
+    "cover_url": "./assets/book_covers/evgenii_bakhmutskii_vot_tvoe_schaste.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2021"
+  },
+  {
+    "id": "01a131c2-3768-77cb-9697-ae4cea8db520",
+    "title": "Тропа пастыря",
+    "author_ids": [
+      "01a131c1-4f97-7788-a343-327046882a53",
+      "01a131c1-8dab-724a-a2b6-3265f989fb32"
+    ],
+    "read": true,
+    "rating": 9,
+    "started": "2020",
+    "finished": "2020",
+    "publication_year": 2016,
+    "publication_country": "РФ",
+    "publisher_id": "01a131c2-795d-755e-9c0b-aae772129e90",
+    "isbn": "978-5-8445-0195-1",
+    "cover_url": "./assets/book_covers/kevin_leman_tropa_pastyria.webp",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2020"
+  },
+  {
+    "id": "01a131c7-2e5d-767a-aadd-9d705f32b859",
+    "title": "Ключевые средства благодати. Писание, молитва, церковь",
+    "author_ids": [
+      "01a131c6-90a9-75e6-95a3-46780dc6e951"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2020,
+    "publication_country": "РБ",
+    "publisher_id": "01a12bc6-7a12-722f-a2f1-cb758b22a861",
+    "isbn": "978-985-7265-10-7",
+    "cover_url": "./assets/book_covers/pol_vosher_kliuchevye_sredstva_blagodati.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2024"
+  },
+  {
+    "id": "01a131d9-30b1-70b9-b2c9-92cff7334a19",
+    "title": "Уверенность в спасении. Ложная и евангельская",
+    "author_ids": [
+      "01a131c6-90a9-75e6-95a3-46780dc6e951"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2021,
+    "publication_country": "РБ",
+    "publisher_id": "01a12bc6-7a12-722f-a2f1-cb758b22a861",
+    "isbn": "978-985-7265-37-4",
+    "cover_url": "./assets/book_covers/pol_vosher_uverennost_v_spasenii.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2024"
+  },
+  {
+    "id": "01a131db-637b-7753-8f94-f7d63f7419c0",
+    "title": "Проповедь Евангелия и истинное обращение",
+    "author_ids": [
+      "01a131c6-90a9-75e6-95a3-46780dc6e951"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2021,
+    "publication_country": "РБ",
+    "publisher_id": "01a12bc6-7a12-722f-a2f1-cb758b22a861",
+    "isbn": "978-985-7265-39-8",
+    "cover_url": "./assets/book_covers/pol_vosher_propoved_evangeliia_i_istinnoe_obrashchenie.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2024"
+  },
+  {
+    "id": "01a131de-2959-72be-bbc2-f1e6bf1ef02b",
+    "title": "Сила и смысл Евангелия",
+    "author_ids": [
+      "01a131c6-90a9-75e6-95a3-46780dc6e951"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2021,
+    "publication_country": "РБ",
+    "publisher_id": "01a12bc6-7a12-722f-a2f1-cb758b22a861",
+    "isbn": "978-985-7265-38-1",
+    "cover_url": "./assets/book_covers/pol_vosher_sila_i_smysl_evangeliia.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2024"
+  },
+  {
+    "id": "01a131e8-8436-7434-a8d9-691541376eff",
+    "title": "Почему мы любим церковь. В защиту церкви как организации",
+    "author_ids": [
+      "01a12bc0-e2ef-71a9-aacd-30fc9bf8be85",
+      "01a131eb-fd89-71a1-b744-7fc48304970a"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2019,
+    "publication_country": "РБ",
+    "publisher_id": "01a12bc6-7a12-722f-a2f1-cb758b22a861",
+    "isbn": "978-985-7193-29-5",
+    "cover_url": "./assets/book_covers/kevin_deiang_pochemu_my_liubim_tserkov.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2024"
+  },
+  {
+    "id": "01a131ed-4e3e-7448-8804-8039db34c58f",
+    "title": "Поверить Богу на слово. Почему Библия познаваема, необходима и достаточка и что это значит для нас",
+    "author_ids": [
+      "01a12bc0-e2ef-71a9-aacd-30fc9bf8be85"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2018,
+    "publication_country": "РБ",
+    "publisher_id": "01a12bc6-7a12-722f-a2f1-cb758b22a861",
+    "isbn": "978-985-7193-19-6",
+    "cover_url": "./assets/book_covers/kevin_deiang_poverit_bogu_na_slovo.webp",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2024"
+  },
+  {
+    "id": "01a131f6-672b-746f-bc1c-1a5e7cf4e1e8",
+    "title": "Молитва. 3-е издание",
+    "author_ids": [
+      "01a12bb3-1bd9-74e5-9a08-0f34bca3a9f1"
+    ],
+    "read": true,
+    "rating": 7,
+    "started": "2018",
+    "finished": "2018",
+    "publication_year": 2018,
+    "publication_country": "РФ",
+    "publisher_id": "01a12bb4-2a2d-7665-9c1f-123e83987b6a",
+    "isbn": "978-5-86181-639-7",
+    "cover_url": "./assets/book_covers/filip_iansi_molitva.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2018"
+  },
+  {
+    "id": "01a131fe-fd63-74de-bbc8-4714d3842dbd",
+    "title": "Библия, которую читал Иисус. 5-е издание",
+    "author_ids": [
+      "01a12bb3-1bd9-74e5-9a08-0f34bca3a9f1"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2016,
+    "publication_country": "РФ",
+    "publisher_id": "01a12bb4-2a2d-7665-9c1f-123e83987b6a",
+    "isbn": "978-5-86181-384-6",
+    "cover_url": "./assets/book_covers/filip_iansi_bibliia_kotoruiu_chital_iisus.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2023"
+  },
+  {
+    "id": "01a13205-6f15-75b9-aec4-e29df224a2d7",
+    "title": "Ты дивно устроил внутренности мои. 7-е издание",
+    "author_ids": [
+      "01a12bb3-1bd9-74e5-9a08-0f34bca3a9f1",
+      "01a13201-e42d-7424-874a-70b04544f059"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2017,
+    "publication_country": "РФ",
+    "publisher_id": "01a12bb4-2a2d-7665-9c1f-123e83987b6a",
+    "isbn": "978-5-86181-603-8",
+    "cover_url": "./assets/book_covers/filip_iansi_ty_divno_ustroil_vnutrennosti_moi.webp",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2023"
+  },
+  {
+    "id": "01a13202-5380-7434-8fd4-77beaa03f1f2",
+    "title": "По образу Его. 5-е издание",
+    "author_ids": [
+      "01a12bb3-1bd9-74e5-9a08-0f34bca3a9f1",
+      "01a13201-e42d-7424-874a-70b04544f059"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2017,
+    "publication_country": "РФ",
+    "publisher_id": "01a12bb4-2a2d-7665-9c1f-123e83987b6a",
+    "isbn": "978-5-86181-550-5",
+    "cover_url": "./assets/book_covers/filip_iansi_po_obrazu_ego.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2023"
+  },
+  {
+    "id": "01a13208-6c93-74f9-ac19-a185f46a1bdd",
+    "title": "Разочарование в Боге",
+    "author_ids": [
+      "01a12bb3-1bd9-74e5-9a08-0f34bca3a9f1"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2014,
+    "publication_country": "РФ",
+    "publisher_id": "01a12bb4-2a2d-7665-9c1f-123e83987b6a",
+    "isbn": "978-5-86181-556-7",
+    "cover_url": "./assets/book_covers/filip_iansi_razocharovanie_v_boge.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2023"
+  },
+  {
+    "id": "01a1320b-b381-728b-9c9d-b45656bb1c32",
+    "title": "Отголоски иного мира",
+    "author_ids": [
+      "01a12bb3-1bd9-74e5-9a08-0f34bca3a9f1"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2019,
+    "publication_country": "РФ",
+    "publisher_id": "01a12bb4-2a2d-7665-9c1f-123e83987b6a",
+    "isbn": "978-5-86181-653-3",
+    "cover_url": "./assets/book_covers/filip_iansi_otgoloski_inogo_mira.webp",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2023"
+  },
+  {
+    "id": "01a1320d-b61d-743e-a3a8-b34ee18f3039",
+    "title": "Много шума из-за церкви",
+    "author_ids": [
+      "01a12bb3-1bd9-74e5-9a08-0f34bca3a9f1"
+    ],
+    "read": true,
+    "rating": null,
+    "started": "2018",
+    "finished": "2018",
+    "publication_year": 2018,
+    "publication_country": "РФ",
+    "publisher_id": "01a12bb4-2a2d-7665-9c1f-123e83987b6a",
+    "isbn": "978-5-86181-629-8",
+    "cover_url": "./assets/book_covers/filip_iansi_mnogo_shuma_iz-za_tserkvi.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2018"
+  },
+  {
+    "id": "01a13216-3a68-75c6-8059-3247017d6794",
+    "title": "Враг внутри. 2-е издание",
+    "author_ids": [
+      "01a13217-741c-753a-864a-68a5f546b17c"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2013,
+    "publication_country": "РФ",
+    "publisher_id": "01a13172-7f66-7689-a88b-ce0e6edc1183",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/kris_lundgaard_vrag_vnutri_kniga.webp",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2020"
+  },
+  {
+    "id": "01a1321b-31c5-75bd-b729-6396ea6c31d9",
+    "title": "40 дней молитвы. Пособие для малых групп",
+    "author_ids": [
+      "01a1321b-81cd-72db-98a5-8ba7aba5ca3a"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2019,
+    "publication_country": "РФ",
+    "publisher_id": "",
+    "isbn": "",
+    "cover_url": "",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2023"
+  },
+  {
+    "id": "01a13225-14ad-72be-8b74-0ec2dde91dc3",
+    "title": "Целеустремлённая жизнь. 7-е издание",
+    "author_ids": [
+      "01a1321b-81cd-72db-98a5-8ba7aba5ca3a"
+    ],
+    "read": true,
+    "rating": null,
+    "started": "2018",
+    "finished": "2018",
+    "publication_year": 2015,
+    "publication_country": "РФ",
+    "publisher_id": "01a1322b-e1c4-758a-afba-b2819212d6d0",
+    "isbn": "978-5-88930-092-2",
+    "cover_url": "./assets/book_covers/rik_uorren_tseleustremlennaia_zhizn.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2018"
+  },
+  {
+    "id": "01a1322c-7aa0-71a9-81a1-bdd0edcce16f",
+    "title": "Зачем работать. Великие библейские истины о вашем деле",
+    "author_ids": [
+      "01a1318f-06cb-739c-96e8-5a71c3da1d8b",
+      "01a1322d-4cf3-731e-bd7e-37869f058ef1"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2015,
+    "publication_country": "РФ",
+    "publisher_id": "01a13124-7128-73cc-b111-43e0a1c154b7",
+    "isbn": "978-5-699-70374-6",
+    "cover_url": "./assets/book_covers/timoti_keller_zachem_rabotat.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2020"
+  },
+  {
+    "id": "01a13233-71d7-7488-b063-e00ecdfcf3b2",
+    "title": "Вера, которая побеждает мир",
+    "author_ids": [
+      "01a13233-9c66-72b8-aaa4-bd2b3f224144"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2014,
+    "publication_country": "РФ",
+    "publisher_id": "01a12bdd-0b04-75f1-b0dc-90095720244f",
+    "isbn": "978-5-94324-030-0",
+    "cover_url": "./assets/book_covers/ulf_ehkman_veraia_kotoraia_pobezhdaet_mir.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2018"
+  },
+  {
+    "id": "01a13236-e630-71df-aa22-71f226e7914b",
+    "title": "Забытый Бог",
+    "author_ids": [
+      "01a13236-be01-73bb-9b48-826a02e89d24"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2012,
+    "publication_country": "РФ",
+    "publisher_id": "01a12bdd-0b04-75f1-b0dc-90095720244f",
+    "isbn": "978-5-91943-010-0",
+    "cover_url": "./assets/book_covers/frehnsis_chen_zabytyi_bog.webp",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2023"
+  },
+  {
+    "id": "01a1323e-1b73-76da-8590-3e1a3b7d7c1c",
+    "title": "Учебная Библия. НРП. 2-е издание",
+    "author_ids": [
+      "01a12be5-28fe-75a3-8665-67ae4a9a8e35"
+    ],
+    "read": true,
+    "rating": null,
+    "started": "2025",
+    "finished": "2025",
+    "publication_year": 2023,
+    "publication_country": "РФ",
+    "publisher_id": "",
+    "isbn": "978-5-600-03640-6",
+    "cover_url": "./assets/book_covers/uchebnaia_bibliia_nrp.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "23.01.2025"
+  },
+  {
+    "id": "01a13241-acf0-71f4-b0af-cf0db8303268",
+    "title": "Христианство. Сборник",
+    "author_ids": [
+      "01a13241-f94f-7214-8dd4-e7fc38f966f1"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2022,
+    "publication_country": "РФ",
+    "publisher_id": "01a13134-24b0-715d-a432-8cd924a1fb02",
+    "isbn": "978-5-17-115018-1",
+    "cover_url": "./assets/book_covers/klaiv_steiplz_liuis_khristianstvo.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2024"
+  },
+  {
+    "id": "01a13245-8060-73ec-8699-de6d6f65ad09",
+    "title": "Непроторенная дорога",
+    "author_ids": [
+      "01a13245-6b3c-700b-bdcf-925af2ab5e27"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2008,
+    "publication_country": "РФ",
+    "publisher_id": "01a13246-f38f-7439-bbfb-ca6047aa35d4",
+    "isbn": "978-5-91250-658-1",
+    "cover_url": "./assets/book_covers/skott_pek_neprotorennaia_doroga.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2021"
+  },
+  {
+    "id": "01a1324c-edf6-747c-a557-f9edb1524f82",
+    "title": "Послание к Римлянам",
+    "author_ids": [
+      "01a1324c-c938-7409-8dc8-28e2560f697e"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2016,
+    "publication_country": "РФ",
+    "publisher_id": "01a1324c-161d-754b-b07e-06a20325fb5d",
+    "isbn": "978-5-89647-351-0",
+    "cover_url": "./assets/book_covers/karl_bart_poslanie_k_rimlianam.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2018"
+  },
+  {
+    "id": "01a1324f-7758-722b-ba96-396b6c77e684",
+    "title": "Путешествие пилигрима",
+    "author_ids": [
+      "01a1324f-b828-70d9-9a87-e272ec44d8be"
+    ],
+    "read": true,
+    "rating": 8,
+    "started": "2017",
+    "finished": "2017",
+    "publication_year": 2005,
+    "publication_country": "РФ",
+    "publisher_id": "01a13251-5282-70a2-afc2-3b89da705ec4",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/dzhon_bunian_puteshestvie_piligrima.png",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2017"
+  },
+  {
+    "id": "01a134a0-4cf5-73e5-8e28-208c16bd8206",
+    "title": "Богословие. Коротко о важном. 2-е издание",
+    "author_ids": [
+      "01a1349e-befe-75de-baa7-a618ef58970d"
+    ],
+    "read": true,
+    "rating": 10,
+    "started": "10.2026",
+    "finished": "10.2026",
+    "publication_year": 2019,
+    "publication_country": "РФ",
+    "publisher_id": "01a13199-8e69-71af-ad1e-3b177476734d",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/rik_kornish_bogoslovie.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2025"
+  },
+  {
+    "id": "01a134a6-2d19-73ed-b987-d49eda3e0530",
+    "title": "Апологетика. Коротко о важном",
+    "author_ids": [
+      "01a1349e-befe-75de-baa7-a618ef58970d"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2019,
+    "publication_country": "РФ",
+    "publisher_id": "01a13199-8e69-71af-ad1e-3b177476734d",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/rik_kornish_apologetika.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2025"
+  },
+  {
+    "id": "01a134aa-93a5-70ef-b555-c996869b4726",
+    "title": "История Церкви. Коротко о важном",
+    "author_ids": [
+      "01a1349e-befe-75de-baa7-a618ef58970d"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2018,
+    "publication_country": "РФ",
+    "publisher_id": "01a13199-8e69-71af-ad1e-3b177476734d",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/rik_kornish_istoriia_tserkvi.webp",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2024"
+  },
+  {
+    "id": "01a134ab-70ea-7558-98e2-5e724918441f",
+    "title": "Исторические пути христианства. История религии",
+    "author_ids": [
+      "01a134ab-5c98-71fb-818d-5fe1b5c3ac2c"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2015,
+    "publication_country": "РФ",
+    "publisher_id": "01a134af-7b06-7586-afa6-2174a03f599e",
+    "isbn": "978-5-903612-18-5",
+    "cover_url": "./assets/book_covers/aleksandr_men_istoricheskie_puti_khristianstva.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2024"
+  },
+  {
+    "id": "01a134b3-21b8-762b-9251-33f39e51b10a",
+    "title": "История христианства. Том 1. 6-е издание",
+    "author_ids": [
+      "01a134b3-4597-74aa-8403-be17c93ed0e5"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2021,
+    "publication_country": "РФ",
+    "publisher_id": "01a13172-7f66-7689-a88b-ce0e6edc1183",
+    "isbn": "978-5-7454-1651-4",
+    "cover_url": "./assets/book_covers/khusto_gonsales_istoriia_khristianstva_tom_1.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2024"
+  },
+  {
+    "id": "01a134b3-2eb6-770b-855f-13de2cf273d9",
+    "title": "История христианства. Том 2. 7-е издание",
+    "author_ids": [
+      "01a134b3-4597-74aa-8403-be17c93ed0e5"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2021,
+    "publication_country": "РФ",
+    "publisher_id": "01a13172-7f66-7689-a88b-ce0e6edc1183",
+    "isbn": "978-5-7454-1652-1",
+    "cover_url": "./assets/book_covers/khusto_gonsales_istoriia_khristianstva_tom_2.webp",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2024"
+  },
+  {
+    "id": "01a134c1-816e-71ff-84c4-1b60dac293cd",
+    "title": "Новая Женевская учебная Библия. 3-е издание",
+    "author_ids": [
+      "01a12be5-28fe-75a3-8665-67ae4a9a8e35"
+    ],
+    "read": true,
+    "rating": null,
+    "started": "2017",
+    "finished": "2017",
+    "publication_year": 2012,
+    "publication_country": "Украина",
+    "publisher_id": "01a134c3-79fb-71dc-9702-b44b7eb243d2",
+    "isbn": "978-966-2089-57-8",
+    "cover_url": "./assets/book_covers/novaia_zhenevskaia_uchebnaia_bibliia.webp",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2017"
+  },
+  {
+    "id": "01a134e2-8b1d-774a-b343-8a4995ffa383",
+    "title": "Библейский атлас",
+    "author_ids": [
+      "01a134e3-6df0-72ab-aba7-320709eda9df"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2023,
+    "publication_country": "РФ",
+    "publisher_id": "01a134e6-09fa-73fd-bab9-995ca02be1bf",
+    "isbn": "978-5-85524-227-0",
+    "cover_url": "./assets/book_covers/tim_dauli_bibleiskii_atlas.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "14.02.2024"
+  },
+  {
+    "id": "01a134e6-6c3b-70a8-bbf7-c43d31955fb4",
+    "title": "Популярная библейская энциклопедия",
+    "author_ids": [
+      "01a134e3-6df0-72ab-aba7-320709eda9df"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2019,
+    "publication_country": "РФ",
+    "publisher_id": "01a134e6-09fa-73fd-bab9-995ca02be1bf",
+    "isbn": "978-5-85524-281-2",
+    "cover_url": "./assets/book_covers/tim_dauli_populiarnaia_bibleiskaia_ehntsiklopediia.webp",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "14.02.2024"
+  },
+  {
+    "id": "01a134e9-75ba-710b-9702-3b3b53f323a3",
+    "title": "Библия в инфографике",
+    "author_ids": [
+      "01a134e9-bb92-7325-b118-46df3be74016"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2023,
+    "publication_country": "РФ",
+    "publisher_id": "01a13134-24b0-715d-a432-8cd924a1fb02",
+    "isbn": "978-5-17-114890-4",
+    "cover_url": "./assets/book_covers/karen_sorei_bibliia_v_infografike.webp",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "21.02.2024"
+  },
+  {
+    "id": "01a134f7-3338-720f-ae2b-a52d91ba0517",
+    "title": "Идиот",
+    "author_ids": [
+      "01a134f6-a428-77de-ac98-a9aa16eb1c01"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2025,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00214-573-7",
+    "cover_url": "./assets/book_covers/dostoevskii_idiot.webp",
+    "category_ids": [
+      "01a12b9d-9459-7090-818f-dc2b10bf0e64"
+    ],
+    "ebook_id": "",
+    "purchased_at": "10.03.2025"
+  },
+  {
+    "id": "01a13500-a60b-71b8-badf-65d66902237e",
+    "title": "Книга пяти колец",
+    "author_ids": [
+      "01a13508-c1f9-70d6-8fa7-dc44001c7a41"
+    ],
+    "read": true,
+    "rating": 5,
+    "started": "03.2026",
+    "finished": "03.2026",
+    "publication_year": 2023,
+    "publication_country": "РФ",
+    "publisher_id": "01a13134-24b0-715d-a432-8cd924a1fb02",
+    "isbn": "978-5-17-139304-5",
+    "cover_url": "./assets/book_covers/miiamoto_musasi_kniga_piati_kolets.webp",
+    "category_ids": [
+      "01a12b9d-8552-71ab-88ae-46697423b9ff"
+    ],
+    "ebook_id": "",
+    "purchased_at": "08.08.2023"
+  },
+  {
+    "id": "01a13506-08e7-752a-b583-ed80070b061a",
+    "title": "Искусство войны. С комментариями и пояснениями",
+    "author_ids": [
+      "01a13505-a986-7139-8752-f4d046733444"
+    ],
+    "read": true,
+    "rating": 5,
+    "started": "2023",
+    "finished": "2023",
+    "publication_year": 2019,
+    "publication_country": "РФ",
+    "publisher_id": "01a13134-24b0-715d-a432-8cd924a1fb02",
+    "isbn": "978-5-17-107594-1",
+    "cover_url": "./assets/book_covers/sun_tszy_iskusstvo_voiny.jpg",
+    "category_ids": [
+      "01a13508-c1f9-70d6-8fa7-dc44001c7a41"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2021"
+  },
+  {
+    "id": "01a1350b-54b3-71b6-a705-caac8b3015e4",
+    "title": "Логические ошибкки. Как они мешают правильно мыслить",
+    "author_ids": [
+      "01a1350b-0875-71f4-b7a3-3fff815c7fce"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2023,
+    "publication_country": "РФ",
+    "publisher_id": "01a1351c-9583-7112-9f01-f175671c7361",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/uemov_logicheskie_oshibki.webp",
+    "category_ids": [
+      "01a13512-ac2e-7078-a59c-b44f4b87133f"
+    ],
+    "ebook_id": "",
+    "purchased_at": "07.11.2023"
+  },
+  {
+    "id": "01a13513-75f6-74fa-b96e-0da51a0e637c",
+    "title": "Логика. Учебник для средней школы",
+    "author_ids": [
+      "01a13513-1b0c-7190-a14c-27ccae09a660",
+      "01a13513-3e76-7549-9d73-4c401f1bbc68"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2023,
+    "publication_country": "РФ",
+    "publisher_id": "01a1351c-9583-7112-9f01-f175671c7361",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/vinogradov_logika.webp",
+    "category_ids": [
+      "01a13512-ac2e-7078-a59c-b44f4b87133f"
+    ],
+    "ebook_id": "",
+    "purchased_at": "07.11.2023"
+  },
+  {
+    "id": "01a13515-94d1-706b-8d33-20c8dbb58757",
+    "title": "Упражнения по логике. Для средней школы",
+    "author_ids": [
+      "01a13516-2099-7119-ab18-234ff79cd06b"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2023,
+    "publication_country": "РФ",
+    "publisher_id": "01a1351c-9583-7112-9f01-f175671c7361",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/boguslavskii_uprazhneniia_po_logike.jpg",
+    "category_ids": [
+      "01a13512-ac2e-7078-a59c-b44f4b87133f"
+    ],
+    "ebook_id": "",
+    "purchased_at": "07.11.2023"
+  },
+  {
+    "id": "01a13517-4157-76f8-8c76-8a12edf534ca",
+    "title": "Азбука умственного труда",
+    "author_ids": [
+      "01a13517-2674-70f8-9493-5308e858678b"
+    ],
+    "read": true,
+    "rating": 7,
+    "started": "2024",
+    "finished": "2024",
+    "publication_year": 2023,
+    "publication_country": "РФ",
+    "publisher_id": "01a1351c-9583-7112-9f01-f175671c7361",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/rebelskii_azbuka_umstvennogo_truda.webp",
+    "category_ids": [
+      "01a13512-ac2e-7078-a59c-b44f4b87133f"
+    ],
+    "ebook_id": "",
+    "purchased_at": "07.11.2023"
+  },
+  {
+    "id": "01a1351d-fb5f-7037-a66d-a9d258e494c9",
+    "title": "Психология. Учебник для средней школы",
+    "author_ids": [
+      "01a1351d-d45f-761e-bbce-c35c6371c91a"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2023,
+    "publication_country": "РФ",
+    "publisher_id": "01a1351c-9583-7112-9f01-f175671c7361",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/teplov_psikhologiia.jpg",
+    "category_ids": [
+      "01a13512-ac2e-7078-a59c-b44f4b87133f"
+    ],
+    "ebook_id": "",
+    "purchased_at": "07.11.2023"
+  },
+  {
+    "id": "01a1351f-c596-7688-847a-390bf1f7a3f6",
+    "title": "Приёмы счёта",
+    "author_ids": [
+      "01a1351f-8418-729b-a93b-70ea4eb2d537"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2023,
+    "publication_country": "РФ",
+    "publisher_id": "01a1351c-9583-7112-9f01-f175671c7361",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/berman_priemy_scheta.jpg",
+    "category_ids": [
+      "01a13512-ac2e-7078-a59c-b44f4b87133f"
+    ],
+    "ebook_id": "",
+    "purchased_at": "07.11.2023"
+  },
+  {
+    "id": "01a13521-92d7-76e8-a140-0bb44b57c665",
+    "title": "Искусство спора",
+    "author_ids": [
+      "01a13521-6f9d-74ad-ae50-ea0c007e4555"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2023,
+    "publication_country": "РФ",
+    "publisher_id": "01a1351c-9583-7112-9f01-f175671c7361",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/povarnin_iskusstvo_spora.jpeg",
+    "category_ids": [
+      "01a13512-ac2e-7078-a59c-b44f4b87133f"
+    ],
+    "ebook_id": "",
+    "purchased_at": "07.11.2023"
+  },
+  {
+    "id": "01a13523-7afd-714d-8983-184187d89c15",
+    "title": "Как читать книги для самообразования",
+    "author_ids": [
+      "01a13521-6f9d-74ad-ae50-ea0c007e4555"
+    ],
+    "read": true,
+    "rating": 7,
+    "started": "2023",
+    "finished": "2023",
+    "publication_year": 2023,
+    "publication_country": "РФ",
+    "publisher_id": "01a1351c-9583-7112-9f01-f175671c7361",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/povarnin_kak_chitat_knigi_dlia_samoobrazovaniia.jpg",
+    "category_ids": [
+      "01a13512-ac2e-7078-a59c-b44f4b87133f"
+    ],
+    "ebook_id": "",
+    "purchased_at": "07.11.2023"
+  },
+  {
+    "id": "01a13525-8845-77cf-91bb-ce07c10bbcea",
+    "title": "Вишнёвый сад. Дядя Ваня",
+    "author_ids": [
+      "01a13525-375c-7048-bbbb-1317f3b8df21"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2025,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00250-164-9",
+    "cover_url": "./assets/book_covers/chekhov_vishnevyi_sad.png",
+    "category_ids": [
+      "01a12b9d-9459-7090-818f-dc2b10bf0e64"
+    ],
+    "ebook_id": "",
+    "purchased_at": "10.03.2025"
+  },
+  {
+    "id": "01a13528-3af7-7062-8cb0-cfebba5c1d74",
+    "title": "Супружество",
+    "author_ids": [
+      "01a13527-dc83-752e-b361-78b6220741ee"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2022,
+    "publication_country": "Украина",
+    "publisher_id": "01a13529-56ec-751f-921d-59cc6ac1b952",
+    "isbn": "978-966-2110-53-1",
+    "cover_url": "./assets/book_covers/pol_dehvid_tripp_supruzhestvo.webp",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "ebook_id": "",
+    "purchased_at": "20.12.2024"
+  },
+  {
+    "id": "01a13536-6e0f-74ae-b56f-da0f48788369",
+    "title": "Пропаганда",
+    "author_ids": [
+      "01a13536-3891-735b-96bf-5e43b8ef60d4"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2022,
+    "publication_country": "РФ",
+    "publisher_id": "01a13536-0323-76c0-a079-c9696cf5636c",
+    "isbn": "978-5-4461-1857-1",
+    "cover_url": "./assets/book_covers/ehdvard_berneis_propaganda.webp",
+    "category_ids": [
+      "01a12b9d-662e-709c-aced-c95517236f64"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2025"
+  },
+  {
+    "id": "01a13545-8e81-7310-b7e9-75c8bd438699",
+    "title": "Как сказать. Главная книга по развитию коммуникативных навыков",
+    "author_ids": [
+      "01a13543-ae45-72c8-b25c-a825bac3231c",
+      "01a13543-ba57-769b-99b5-db92b761f128",
+      "01a13543-c298-70db-a87f-7b0f2a71d917"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2024,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00214-410-5",
+    "cover_url": "./assets/book_covers/mehtiu_makkei_kak_skazat.png",
+    "category_ids": [
+      "01a12b9d-662e-709c-aced-c95517236f64"
+    ],
+    "ebook_id": "",
+    "purchased_at": "28.11.2024"
+  },
+  {
+    "id": "01a13549-8362-76b8-aed0-68d30dc298de",
+    "title": "Пять пороков команды. 8-е издание",
+    "author_ids": [
+      "01a13549-bf7e-723a-9fb5-1c720e9612b2"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2025,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00195-186-5",
+    "cover_url": "./assets/book_covers/patrik_lensioni_piat_porokov_komandy.png",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "10.03.2025"
+  },
+  {
+    "id": "01a13559-8b00-73b2-b323-751c059b323a",
+    "title": "Ценности Huawei. Клиенты для бизнеса прежде всего",
+    "author_ids": [
+      "01a13559-3062-729f-8fae-7740ee34a5cd"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2024,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00214-421-1",
+    "cover_url": "./assets/book_covers/sia_chzhuniei_tsennosti_huawei.png",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "7.11.2025"
+  },
+  {
+    "id": "01a1355b-beb2-75ce-ae24-9b5c645730de",
+    "title": "Краткий курс макроэкономики. Что нужно знать руководителю",
+    "author_ids": [
+      "01a1355b-ac83-760f-9bb5-1299cbb510ff"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2020,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/dehvid_moss_kratkii_kurs_makroehkonomiki.png",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
+    ],
+    "ebook_id": "",
+    "purchased_at": "24.04.2020"
+  },
+  {
+    "id": "01a1355f-af13-74ed-8e57-910f6a3f6f16",
+    "title": "Принципы лидера. Уроки моей жизни",
+    "author_ids": [
+      "01a1355f-9393-746c-805c-b592903f0821"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2020,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00146-429-7",
+    "cover_url": "./assets/book_covers/dzhon_khennessi_printsipy_lidera.png",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "18.05.2022"
+  },
+  {
+    "id": "01a13567-94e4-7488-b39c-f1081d48509f",
+    "title": "Как убедить тех, кого хочется прибить. Правила продуктивного спора без агрессии и перехода на личности",
+    "author_ids": [
+      "01a13567-7198-70a1-8bee-6d4eaa4e08e4"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2024,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00214-266-8",
+    "cover_url": "./assets/book_covers/bo_so_kak_ubedit_tekh_kogo_khochetsia_pribit.png",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "7.11.2025"
+  },
+  {
+    "id": "01a1356a-a1c8-74ab-80d0-dc802c9a6d88",
+    "title": "Взлом стратегии",
+    "author_ids": [
+      "01a1356a-7bd4-747b-a0de-2172c57f9c6c"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2023,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00195-849-9",
+    "cover_url": "./assets/book_covers/richard_rumelt_vzlom_strategii.png",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "24.11.2023"
+  },
+  {
+    "id": "01a1356b-afa7-738f-a43d-0d451094b0bb",
+    "title": "Департамент здравого смысла. Как избавиться от бюрократии, бессмысленных презентаций и прочего корпоративного бреда",
+    "author_ids": [
+      "01a1356b-9625-77a9-a054-c2fff0896fda"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2022,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00169-594-3",
+    "cover_url": "./assets/book_covers/martin_lindstrom_departament_zdravogo_smysla.png",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "24.11.2023"
+  },
+  {
+    "id": "01a1356e-8f0f-72d8-87f3-b440a8a62147",
+    "title": "Почему никто не рассказал мне этого о деньгах раньше? Как стать финансово непобедимым",
+    "author_ids": [
+      "01a1356e-592f-75af-aaf1-45a779c5ea80"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2023,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00195-597-9",
+    "cover_url": "./assets/book_covers/mario_lokhner_pochemu_nikto_ne_rasskazal_mne_ehtogo_o_dengakh_ranshe.png",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "28.11.2024"
+  },
+  {
+    "id": "01a13571-e69b-71fb-91a5-f69cdfe7f5bb",
+    "title": "Принцип ставок. Как принимать решения в условиях неопределённости",
+    "author_ids": [
+      "01a13571-ab73-74bb-a8e8-ef1c4dc5cd14"
+    ],
+    "read": true,
+    "rating": 4,
+    "started": "2023",
+    "finished": "2023",
+    "publication_year": 2019,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00146-047-3",
+    "cover_url": "./assets/book_covers/ehnni_diuk_printsip_stavok.png",
+    "category_ids": [
+      "01a12b9d-7b09-761b-bb0b-d9bf4f74139a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2021"
+  },
+  {
+    "id": "01a13577-3506-72ff-a99a-e17390e5f370",
+    "title": "Пишут все! Как создавать контент, который работает",
+    "author_ids": [
+      "01a13577-1419-76cc-a408-b6b37610a616"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2020,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00146-702-1",
+    "cover_url": "./assets/book_covers/ehnn_khehndli_pishut_vse.png",
+    "category_ids": [
+      "01a12b9d-2f42-726f-a500-c2ab9e260b6b"
+    ],
+    "ebook_id": "",
+    "purchased_at": "03.06.2020"
+  },
+  {
+    "id": "01a13578-95a7-75ab-94b6-5c307c0619cc",
+    "title": "Сверхмышление. Интеллект-карты для эффективного решения задач",
+    "author_ids": [
+      "01a13578-5d7f-7389-84c6-16e3d6ea4c50"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2023,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00195-832-1",
+    "cover_url": "./assets/book_covers/toni_biuzen_sverkhmyshlenie.png",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "10.03.2025"
+  },
+  {
+    "id": "01a1357c-10e4-779a-956c-7d7fbbe14146",
+    "title": "Строим доверие по методикам спецслужб",
+    "author_ids": [
+      "01a1357b-df3f-719c-b628-e3094e9c33e8",
+      "01a1357b-fa86-75ae-99a2-9788a5a866f0"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2018,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00117-528-5",
+    "cover_url": "./assets/book_covers/robin_drik_stroim_doverie_po_metodikam_spetssluzhb.png",
+    "category_ids": [
+      "01a12b9d-7b09-761b-bb0b-d9bf4f74139a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "24.06.2023"
+  },
+  {
+    "id": "01a1357f-07c8-71f8-80b9-d4e8efd9b63c",
+    "title": "Сбитые с толку. Почему наши интуитивные представления о мире часто ошибочны",
+    "author_ids": [
+      "01a1357e-e57b-7598-9bfe-ddc29cf2dcb8"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2020,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00117-761-6",
+    "cover_url": "./assets/book_covers/ehndriu_shtulman_sbitye_s_tolku.png",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2021"
+  },
+  {
+    "id": "01a13589-0076-7168-9cd3-cca96f65417d",
+    "title": "Новые правила деловой переписки",
+    "author_ids": [
+      "01a13588-c2f0-70c2-94a8-dc4ee76793f2",
+      "01a13588-f234-74ce-a7d4-15f362764573"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2018,
+    "publication_country": "РФ",
+    "publisher_id": "01a1358a-2146-727e-8e73-6460aa10bc0d",
+    "isbn": "978-5-9614-1034-1",
+    "cover_url": "./assets/book_covers/maksim_iliakhov_novye_pravila_delovoi_perepiski.webp",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2022"
+  },
+  {
+    "id": "01a13598-e84a-775d-a772-700f9d590279",
+    "title": "10 героев вашего бизнеса, которые приведут компанию к успеху",
+    "author_ids": [
+      "01a13598-bd56-70a8-bbd3-10e57a0777f1"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2019,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00146-243-9",
+    "cover_url": "./assets/book_covers/tom_kelli_10_geroev_vashego_biznesa.png",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "24.06.2023"
+  },
+  {
+    "id": "01a1359d-ccc7-72a1-ad4b-fd7cdcd64109",
+    "title": "7 навыков высокоэффективных людей",
+    "author_ids": [
+      "01a1359d-afb1-744a-a7d4-10b933c892f3"
+    ],
+    "read": true,
+    "rating": 8,
+    "started": "01.2026",
+    "finished": "09.2026",
+    "publication_year": 2024,
+    "publication_country": "РФ",
+    "publisher_id": "01a1358a-2146-727e-8e73-6460aa10bc0d",
+    "isbn": "978-5-9614-4809-2",
+    "cover_url": "./assets/book_covers/stiven_kovi_7_navykov_vysokoehffektivnykh_liudei.webp",
+    "category_ids": [
+      "01a12b9d-7b09-761b-bb0b-d9bf4f74139a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "20.09.2025"
+  },
+  {
+    "id": "01a135ad-4a7d-75ce-b948-a2d6c477ce72",
+    "title": "Нескучные финансы. Как управлять бизнесом на основе цифр и не сойти с ума",
+    "author_ids": [
+      "01a135a4-f9a8-77b8-8cc4-ff531781259d",
+      "01a135a5-1f96-73ba-afb9-3eee6a72a930",
+      "01a135a5-32c8-75a9-a817-b15bc4bc93c9"
+    ],
+    "read": true,
+    "rating": 6,
+    "started": "05.2026",
+    "finished": "06.2026",
+    "publication_year": 2025,
+    "publication_country": "РФ",
+    "publisher_id": "01a13536-0323-76c0-a079-c9696cf5636c",
+    "isbn": "978-5-4461-1782-6",
+    "cover_url": "./assets/book_covers/aleksandr_afanasev_neskuchnye_finansy.webp",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "23.05.2026"
+  },
+  {
+    "id": "01a135af-dc4c-71c4-bda8-bbba6569bd65",
+    "title": "Цель. Процесс непрерывного улучшения",
+    "author_ids": [
+      "01a135af-8303-709b-94b4-9cbb9b84527b"
+    ],
+    "read": true,
+    "rating": 8,
+    "started": "06.2026",
+    "finished": "06.2026",
+    "publication_year": 2024,
+    "publication_country": "РБ",
+    "publisher_id": "01a135b2-9ca9-712d-b469-ee26c338e36f",
+    "isbn": "978-985-15-5777-2",
+    "cover_url": "./assets/book_covers/ehliiakhu_goldratt_tsel.webp",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "27.05.2025"
+  },
+  {
+    "id": "01a135b5-a45c-73c3-a47a-e6e855af2837",
+    "title": "Цель 2. Дело не в везении",
+    "author_ids": [
+      "01a135af-8303-709b-94b4-9cbb9b84527b"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2023,
+    "publication_country": "РФ",
+    "publisher_id": "01a1358a-2146-727e-8e73-6460aa10bc0d",
+    "isbn": "978-5-907470-62-0",
+    "cover_url": "./assets/book_covers/ehliiakhu_goldratt_tsel_2.jpg",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "18.11.2025"
+  },
+  {
+    "id": "01a135b9-3648-73af-827d-5f2c95a7bc42",
+    "title": "Огилви о рекламе",
+    "author_ids": [
+      "01a135b9-07c2-73eb-b7a5-72257a6f3609"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2023,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00214-101-2",
+    "cover_url": "./assets/book_covers/dehvid_ogilvi_o_reklame.png",
+    "category_ids": [
+      "01a12b9d-2f42-726f-a500-c2ab9e260b6b"
+    ],
+    "ebook_id": "",
+    "purchased_at": "18.03.2024"
+  },
+  {
+    "id": "01a135bb-c6c6-773a-891a-745e3977263d",
+    "title": "Бизнес в стиле Virgin. Чему вас не научат в бизнес-школе",
+    "author_ids": [
+      "01a135bb-921c-7196-bc1e-dfc30055ad9f"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2018,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00117-644-2",
+    "cover_url": "./assets/book_covers/richard_brehnson_biznes_v_stile_virgin.png",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "24.11.2023"
+  },
+  {
+    "id": "01a135c1-5dc0-7171-a9a2-d058c761d7b2",
+    "title": "Принципы экономики. Классическое руководство",
+    "author_ids": [
+      "01a135c1-2a85-700e-ac61-d9b8b75e1a9d"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2022,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00195-166-7",
+    "cover_url": "./assets/book_covers/tomas_souehll_printsipy_ehkonomiki.png",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "24.06.2023"
+  },
+  {
+    "id": "01a135ce-5139-71dd-960e-a39956c9a09b",
+    "title": "Принципы изменения мирового порядка. Почему одни нации побеждают, а другие терпят поражение",
+    "author_ids": [
+      "01a135ce-4270-7568-b5a1-b128a77471bd"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2023,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00195-335-7",
+    "cover_url": "./assets/book_covers/rehi_dalio_printsipy_izmeneniia_mirovogo_poriadka.png",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "24.06.2023"
+  },
+  {
+    "id": "01a135d3-d622-7108-a27b-d593ebe5969d",
+    "title": "Принципы. Жизнь и работа. 4-е издание",
+    "author_ids": [
+      "01a135ce-4270-7568-b5a1-b128a77471bd"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2020,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00146-748-5",
+    "cover_url": "./assets/book_covers/rehi_dalio_printsipy.png.png",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "23.03.2020"
+  },
+  {
+    "id": "01a13627-78fe-712b-a870-2d35a7c1b632",
+    "title": "Менеджмент глазами ресторатора",
+    "author_ids": [
+      "01a13627-5996-76b8-97ec-1e2bb0ec182e"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2024,
+    "publication_country": "РФ",
+    "publisher_id": "01a13629-7406-74e7-868e-95cd2a9e1d48",
+    "isbn": "978-5-6049517-1-2",
+    "cover_url": "./assets/book_covers/boris_zarkov_menedzhment_glazami_restoratora.webp",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "10.10.2024"
+  },
+  {
+    "id": "01a1365f-8a0a-71e9-9912-21b7623261d6",
+    "title": "Гений. Жизнь и наука Ричарда Фейнмана",
+    "author_ids": [
+      "01a1365f-78f8-7540-af9f-4cef480a6fdb"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2018,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00117-609-1",
+    "cover_url": "./assets/book_covers/dzheims_glik_genii.png",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
+    ],
+    "ebook_id": "",
+    "purchased_at": "18.03.2024"
+  },
+  {
+    "id": "01a13662-b54c-71b7-8b59-6e9c4f379ca2",
+    "title": "Код цвета",
+    "author_ids": [
+      "01a13662-a269-734f-8e59-b35fe7f53216"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2025,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00195-406-5",
+    "cover_url": "./assets/book_covers/pol_simpson_kod_tsveta.png",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
+    ],
+    "ebook_id": "",
+    "purchased_at": "07.11.2025"
+  },
+  {
+    "id": "01a1366c-1dcc-7482-917a-5f5e2006a73f",
+    "title": "О красоте",
+    "author_ids": [
+      "01a13669-65a8-700b-ba61-c4e65b036a58",
+      "01a13669-807f-762f-8d04-dca21b5c49d5"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2020,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00146-100-5",
+    "cover_url": "./assets/book_covers/stefan_zagmaister_o_krasote.png",
+    "category_ids": [
+      "01a12b9d-0ed4-77e5-81a5-48bc0fe84aed",
+      "01a12b9c-da0c-71e7-8d26-0dad38041193"
+    ],
+    "ebook_id": "",
+    "purchased_at": "22.01.2021"
+  },
+  {
+    "id": "01a1366d-6906-777f-9cea-45f4178d2ec4",
+    "title": "Главное в истории искусств. Ключевые работы, темы, направления, техники. 5-е издание",
+    "author_ids": [
+      "01a1366d-4c50-70fa-9f4c-15dfda1e6a46"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2022,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00195-337-1",
+    "cover_url": "./assets/book_covers/siuzi_khodzh_glavnoe_v_istorii_iskusstv.png",
+    "category_ids": [
+      "01a12b9d-0ed4-77e5-81a5-48bc0fe84aed",
+      "01a12b9d-1fb2-76e6-9ab2-7f157c635c95"
+    ],
+    "ebook_id": "",
+    "purchased_at": "28.11.2024"
+  },
+  {
+    "id": "01a13672-2f2c-741b-bcda-dff06f3ae622",
+    "title": "The Book. Как создать цивилизацию заново",
+    "author_ids": [
+      "01a13671-10bc-703b-b128-df82a59fb0d8"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2025,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00214-025-1",
+    "cover_url": "./assets/book_covers/the_book_kak_sozdat_tsivilizatsiiu_zanovo.png",
+    "category_ids": [
+      "01a12b9d-1fb2-76e6-9ab2-7f157c635c95",
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
+    ],
+    "ebook_id": "",
+    "purchased_at": "28.11.2024"
+  },
+  {
+    "id": "01a13679-7344-7359-a467-327398d01cfa",
+    "title": "Тайная жизнь цвета. 2-е издание",
+    "author_ids": [
+      "01a13678-4208-759a-9600-9ca4dd23f6df",
+      "01a12b9c-da0c-71e7-8d26-0dad38041193"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2021,
+    "publication_country": "РФ",
+    "publisher_id": "01a1367a-d159-76c2-9c6d-3b1a36863905",
+    "isbn": "978-5-04-116776-9",
+    "cover_url": "./assets/book_covers/kassiia_sen_kler_tainaia_zhizn_tsveta.jpg",
+    "category_ids": [
+      "01a12b9d-0ed4-77e5-81a5-48bc0fe84aed"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2022"
+  },
+  {
+    "id": "01a13684-b7c6-71ac-9a70-88ec2fa8624f",
+    "title": "Зелёный свет",
+    "author_ids": [
+      "01a13684-018d-7119-9e79-2b077f5d11aa"
+    ],
+    "read": true,
+    "rating": 6,
+    "started": "2022",
+    "finished": "2022",
+    "publication_year": 2021,
+    "publication_country": "РФ",
+    "publisher_id": "01a13685-e09b-74fa-b589-366966d7d273",
+    "isbn": "978-5-389-19099-3",
+    "cover_url": "./assets/book_covers/mehttiu_makkonakhi_zelenyi_svet.webp",
+    "category_ids": [
+      "01a12b9c-c1e1-7062-892b-4efa6adf01e0"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2022"
+  },
+  {
+    "id": "01a13689-10e1-72a8-96f3-98247b89339b",
+    "title": "Как смотреть на картины",
+    "author_ids": [
+      "01a13688-de2e-7078-afed-6c777320f7c1"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2020,
+    "publication_country": "РФ",
+    "publisher_id": "01a1368d-0570-7067-ad17-dcd15c2289c0",
+    "isbn": "978-5-91103-448-1",
+    "cover_url": "./assets/book_covers/siuzen_vudford_kak_smotret_na_kartiny.png",
+    "category_ids": [
+      "01a12b9d-0ed4-77e5-81a5-48bc0fe84aed"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2022"
+  },
+  {
+    "id": "01a136a1-16d6-73bf-b540-70f543c539fd",
+    "title": "Жизнь на кончике скальпеля. Истории нейрохирурга о непростых решениях, потерях и надежде",
+    "author_ids": [
+      "01a136a0-dd95-74f7-aa40-f915dc55e878"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2022,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00195-440-8",
+    "cover_url": "./assets/book_covers/rakhul_dzhandial_zhizn_na_konchike_skalpelia.png",
+    "category_ids": [
+      "01a12b9d-3eb7-774c-8c13-1d80082af77d"
+    ],
+    "ebook_id": "",
+    "purchased_at": "28.11.2024"
+  },
+  {
+    "id": "01a136a3-fb9c-707c-a4bb-cd7454968944",
+    "title": "Занимательная геометрия",
+    "author_ids": [
+      "01a136a3-4fe8-741b-a810-e691a990a97c"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2025,
+    "publication_country": "РФ",
+    "publisher_id": "01a1367a-d159-76c2-9c6d-3b1a36863905",
+    "isbn": "978-5-04-217633-3",
+    "cover_url": "./assets/book_covers/iakov_perelman_geometriia.webp",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb",
+      "01a13512-ac2e-7078-a59c-b44f4b87133f"
+    ],
+    "ebook_id": "",
+    "purchased_at": "14.12.2025"
+  },
+  {
+    "id": "01a136a5-8173-7456-b6f1-ff46fc5fb24c",
+    "title": "Живая математика",
+    "author_ids": [
+      "01a136a3-4fe8-741b-a810-e691a990a97c"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2025,
+    "publication_country": "РФ",
+    "publisher_id": "01a1367a-d159-76c2-9c6d-3b1a36863905",
+    "isbn": "978-5-04-167998-9",
+    "cover_url": "./assets/book_covers/iakov_perelman_zhivaia_matematika.webp",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb",
+      "01a13512-ac2e-7078-a59c-b44f4b87133f"
+    ],
+    "ebook_id": "",
+    "purchased_at": "14.12.2025"
+  },
+  {
+    "id": "01a136a5-909f-7729-975e-aa5ea76b179b",
+    "title": "Занимательная физика",
+    "author_ids": [
+      "01a136a3-4fe8-741b-a810-e691a990a97c"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2025,
+    "publication_country": "РФ",
+    "publisher_id": "01a1367a-d159-76c2-9c6d-3b1a36863905",
+    "isbn": "978-5-04-161037-1",
+    "cover_url": "./assets/book_covers/iakov_perelman_fizika.webp",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb",
+      "01a13512-ac2e-7078-a59c-b44f4b87133f"
+    ],
+    "ebook_id": "",
+    "purchased_at": "14.12.2025"
+  },
+  {
+    "id": "01a136ae-aefc-7395-b3eb-d7d13277da0b",
+    "title": "Среда обитания. Как архитектура влияет на наше поведение и самочувствие",
+    "author_ids": [
+      "01a136ae-7a7a-7560-ab98-e8fadc6e3b1b"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2025,
+    "publication_country": "РФ",
+    "publisher_id": "01a1358a-2146-727e-8e73-6460aa10bc0d",
+    "isbn": "978-5-9614-7018-5",
+    "cover_url": "./assets/book_covers/kolin_ehllard_sreda_obitaniia.webp",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
+    ],
+    "ebook_id": "",
+    "purchased_at": "16.11.2025"
+  },
+  {
+    "id": "01a136b2-73fa-76df-a8ba-91aa3ad79f05",
+    "title": "Как раскрыть убийство. Истории из практики ведущих судмедэкспертов Великобритании",
+    "author_ids": [
+      "01a136b2-407b-72d2-895d-6e2f12da324f",
+      "01a136b2-4c15-7101-bc71-df8096ac0eb6"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2021,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00169-812-8",
+    "cover_url": "./assets/book_covers/derek_tremein_kak_raskryt_ubiistvo.png",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
+    ],
+    "ebook_id": "",
+    "purchased_at": "10.03.2025"
+  },
+  {
+    "id": "01a136b5-b81c-76c8-b973-a9acd86df51c",
+    "title": "Агент влияния. Как использовать навыки спецслужб, чтобы убеждать, продавать и строить успешный бизнес",
+    "author_ids": [
+      "01a136b5-a67e-7167-9ef1-025628963684"
+    ],
+    "read": true,
+    "rating": 5,
+    "started": "2022",
+    "finished": "2022",
+    "publication_year": 2022,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00169-90-8",
+    "cover_url": "./assets/book_covers/dzheison_khanson_agent_vliianiia.png",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2022"
+  },
+  {
+    "id": "01a136b9-6ca7-77fe-b452-36c73f1b8637",
+    "title": "Лимбический мозг. Как познать свои эмоции и обратить их себе на пользу",
+    "author_ids": [
+      "01a136b9-5f5d-715a-a1f4-d8d4c9a05d95"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2021,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00169-937-8",
+    "cover_url": "./assets/book_covers/ehstanislao_bakhrakh_limbicheskii_mozg.png",
+    "category_ids": [
+      "01a12b9d-662e-709c-aced-c95517236f64"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2022"
+  },
+  {
+    "id": "01a136c0-50c5-77a3-9559-13d73a4189b2",
+    "title": "Your next five moves. Master the art of business strategy",
+    "author_ids": [
+      "01a136be-3092-74f3-a46c-1496336d904d"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2020,
+    "publication_country": "USA",
+    "publisher_id": "01a136c0-785a-7740-a751-39a1c73b9ed5",
+    "isbn": "978-1-9821-5480-6",
+    "cover_url": "./assets/book_covers/patrick_bet_david_your_next_five_moves.jpg",
+    "category_ids": [
+      "01a12b9c-b2a5-705e-bd30-90d30859e80a"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2024"
+  },
+  {
+    "id": "01a136c5-cc35-76ab-b686-8f8275220e05",
+    "title": "Как лгать при помощи статистики",
+    "author_ids": [
+      "01a136c5-a21c-73c9-9160-8224cda01989"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2025,
+    "publication_country": "РФ",
+    "publisher_id": "01a1358a-2146-727e-8e73-6460aa10bc0d",
+    "isbn": "978-5-9614-8590-5",
+    "cover_url": "./assets/book_covers/darell_khaff_kak_lgat_pri_pomoshchi_statistiki.webp",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
+    ],
+    "ebook_id": "",
+    "purchased_at": "16.11.2025"
+  },
+  {
+    "id": "01a136cb-d2c7-7739-97c2-481218747a48",
+    "title": "Пинбол-эффект. От византийских мозаик до транзисторов и другие путешествия во времени. 2-е издание",
+    "author_ids": [
+      "01a136cb-b0cf-753b-8362-737e159c17a1"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2014,
+    "publication_country": "РФ",
+    "publisher_id": "01a136cd-8f7e-71ca-b79c-2489f9335f36",
+    "isbn": "978-598062-075-2",
+    "cover_url": "./assets/book_covers/dzheims_berk_pinbol_ehffekt.jpg",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2023"
+  },
+  {
+    "id": "01a136d1-8432-70fc-a231-7191c027bd69",
+    "title": "Чудо дыхания. Как работают наши лёгкие и как поддержать их здоровье",
+    "author_ids": [
+      "01a136d1-682e-7219-abbf-9a9dfb664ad1"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2022,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00195-353-1",
+    "cover_url": "./assets/book_covers/meilan_khan_chudo_dykhaniia.jpg",
+    "category_ids": [
+      "01a12b9d-3eb7-774c-8c13-1d80082af77d"
+    ],
+    "ebook_id": "",
+    "purchased_at": "18.03.2024"
+  },
+  {
+    "id": "01a136d5-4077-737a-9b19-936524b289af",
+    "title": "Кости. Внутри и снаружи",
+    "author_ids": [
+      "01a136d5-2d89-7635-b590-61672bdde1ba"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2021,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00169-682-7",
+    "cover_url": "./assets/book_covers/roi_milz_kosti.png",
+    "category_ids": [
+      "01a12b9d-3eb7-774c-8c13-1d80082af77d"
+    ],
+    "ebook_id": "",
+    "purchased_at": "24.06.2023"
+  },
+  {
+    "id": "01a136d7-7686-713d-8539-2c9652207d58",
+    "title": "Съест ли меня моя кошка? И другие животрепещущие вопросы о смерти",
+    "author_ids": [
+      "01a136d7-5eae-749c-9af7-6707ad058fb8"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2021,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00169-978-1",
+    "cover_url": "./assets/book_covers/keitlin_dauti_sieest_li_menia_moia_koshka.png",
+    "category_ids": [
+      "01a12b9d-1fb2-76e6-9ab2-7f157c635c95"
+    ],
+    "ebook_id": "",
+    "purchased_at": "10.03.2025"
+  },
+  {
+    "id": "01a136d9-a2c8-74d7-83b9-d7e1a7f3b58a",
+    "title": "Penis. Гид по мужскому здоровью от врача-уролога",
+    "author_ids": [
+      "01a136d9-7525-720e-b90c-5b0d7f049df5"
+    ],
+    "read": true,
+    "rating": 6,
+    "started": "2022",
+    "finished": "2022",
+    "publication_year": 2021,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00169-958-3",
+    "cover_url": "./assets/book_covers/sturla_pilskog_penis.png",
+    "category_ids": [
+      "01a12b9d-3eb7-774c-8c13-1d80082af77d"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2022"
+  },
+  {
+    "id": "01a136dd-33f3-7680-92d3-6045bce5a8b6",
+    "title": "Математика в огне. Нескучный учебник",
+    "author_ids": [
+      "01a136dc-e9b5-741e-8c74-6056954c680d"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2021,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/dzheison_uilks_matematika_v_ogne.png",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2022"
+  },
+  {
+    "id": "01a136e2-1b55-77b9-adad-3932da49c2a4",
+    "title": "Как живут японцы",
+    "author_ids": [
+      "01a136e1-e38e-761b-a10b-a5374939df0e"
+    ],
+    "read": true,
+    "rating": 8,
+    "started": "2020",
+    "finished": "2020",
+    "publication_year": 2020,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00146-209-5",
+    "cover_url": "./assets/book_covers/iutaka_iadzava_kak_zhivut_iapontsy.png",
+    "category_ids": [
+      "01a12b9d-1fb2-76e6-9ab2-7f157c635c95"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2020"
+  },
+  {
+    "id": "01a136e3-e846-7451-8038-1b940df8d060",
+    "title": "Как устроено кино. Теория и история кинематографа",
+    "author_ids": [
+      "01a136e3-d862-744e-b211-d1f669cee1c2"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2019,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00117-971-9",
+    "cover_url": "./assets/book_covers/ehdvard_ross_kak_ustroeno_kino.png",
+    "category_ids": [
+      "01a12b9d-1fb2-76e6-9ab2-7f157c635c95",
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
+    ],
+    "ebook_id": "",
+    "purchased_at": "25.12.2020"
+  },
+  {
+    "id": "01a136e7-8f80-7209-b28b-8d970c943a19",
+    "title": "Как снимается кино. История кинематографа",
+    "author_ids": [
+      "01a136e6-cc41-732e-90ec-0dfa900ab6f8"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2019,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00117-955-9",
+    "cover_url": "./assets/book_covers/adam_olsach_bordmen_kak_snimaetsia_kino.png",
+    "category_ids": [
+      "01a12b9d-1fb2-76e6-9ab2-7f157c635c95",
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
+    ],
+    "ebook_id": "",
+    "purchased_at": "28.04.2021"
+  },
+  {
+    "id": "01a136ea-ba80-7460-8303-6751f88651f1",
+    "title": "Великие первооткрыватели. От походов за сокровищами до исследования Солнечной системы",
+    "author_ids": [
+      "01a136ea-a846-7011-a2a9-3002ebd78b51"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2020,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00146-524-9",
+    "cover_url": "./assets/book_covers/paul_de_moor_velikie_pervootkryvateli.png",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb",
+      "01a13512-ac2e-7078-a59c-b44f4b87133f"
+    ],
+    "ebook_id": "",
+    "purchased_at": "13.12.2020"
+  },
+  {
+    "id": "01a136f0-386d-76b5-a3c4-1517493b16d1",
+    "title": "Вскрытие покажет. Записки увлечённого судменэксперта",
+    "author_ids": [
+      "01a136ef-03b2-77dd-8ba8-4202905c1f43"
+    ],
+    "read": true,
+    "rating": 8,
+    "started": "2020",
+    "finished": "2020",
+    "publication_year": 2025,
+    "publication_country": "РФ",
+    "publisher_id": "01a1358a-2146-727e-8e73-6460aa10bc0d",
+    "isbn": "978-5-9614-1383-0",
+    "cover_url": "./assets/book_covers/aleksei_reshetun_vskrytie_pokazhet.webp",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb",
+      "01a12b9d-3eb7-774c-8c13-1d80082af77d"
+    ],
+    "ebook_id": "",
+    "purchased_at": "2025"
+  },
+  {
+    "id": "01a136fc-c0c9-76d6-9c96-20e9037c86ee",
+    "title": "Поразительные насекомые",
+    "author_ids": [
+      "01a136fc-6c71-72e9-a426-6d3b0f787af9"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2020,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00169-013-9",
+    "cover_url": "./assets/book_covers/bart_rossel_porazitelnye_nasekomye.png",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
+    ],
+    "ebook_id": "",
+    "purchased_at": "25.12.2020"
+  }
+]

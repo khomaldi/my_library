@@ -1,0 +1,197 @@
+[
+    {
+        "id": "01a12bb4-2a2d-7665-9c1f-123e83987b6a",
+        "name": "Триада",
+        "website": "triad.ru"
+    },
+    {
+        "id": "01a12bc6-7a12-722f-a2f1-cb758b22a861",
+        "name": "Евангелие и Реформация",
+        "website": "https://epbook.by"
+    },
+    {
+        "id": "01a12bd0-31f0-779f-b054-4b4e8cfe4e6a",
+        "name": "Библейский Взгляд",
+        "website": "https://biblicalview.ru/"
+    },
+    {
+        "id": "01a12bdd-0b04-75f1-b0dc-90095720244f",
+        "name": "Золотые страницы",
+        "website": "https://wolrusbookshop.org"
+    },
+    {
+        "id": "01a12c06-1871-73fd-bd8b-c06cea622708",
+        "name": "Гранат",
+        "website": "https://granat-books.ru"
+    },
+    {
+        "id": "01a12c16-b958-769e-891c-ab187733454a",
+        "name": "МИФ",
+        "website": "https://mann-ivanov-ferber.ru/"
+    },
+    {
+        "id": "01a13124-7128-73cc-b111-43e0a1c154b7",
+        "name": "Эксмо",
+        "website": "https://eksmo.ru"
+    },
+    {
+        "id": "01a13134-24b0-715d-a432-8cd924a1fb02",
+        "name": "АСТ",
+        "website": "https://ast.ru"
+    },
+    {
+        "id": "01a13685-e09b-74fa-b589-366966d7d273",
+        "name": "Азбука-Аттикус",
+        "website": "https://azbooka.ru"
+    },
+    {
+        "id": "01a13159-c381-725c-b78c-c7555259021d",
+        "name": "КоЛибри, Азбука-Аттикус",
+        "website": "https://azbooka.ru/catalog/kolibri"
+    },
+    {
+        "id": "01a13172-7f66-7689-a88b-ce0e6edc1183",
+        "name": "Библия для всех",
+        "website": "https://www.bible.org.ru"
+    },
+    {
+        "id": "01a13190-76c7-7059-b3b4-75c2382887f2",
+        "name": "Мирт",
+        "website": "https://mirt.ru"
+    },
+    {
+        "id": "01a13197-5e9c-7599-ac6a-7a99e26052bf",
+        "name": "Благая весть",
+        "website": "https://bvbook.ru"
+    },
+    {
+        "id": "01a13199-8e69-71af-ad1e-3b177476734d",
+        "name": "Виссон",
+        "website": "https://www.visson.net"
+    },
+    {
+        "id": "01a131a3-b503-75cf-ae94-f6c731d17215",
+        "name": "Радио «Теос»",
+        "website": ""
+    },
+    {
+        "id": "01a131ad-23cd-752b-9c12-66ed8267516c",
+        "name": "OM East",
+        "website": "https://east.om.org"
+    },
+    {
+        "id": "01a131b8-fac3-75b2-ac8d-444a789dcbed",
+        "name": "Пенза. Миссия «Приди и помоги». Откровение",
+        "website": ""
+    },
+    {
+        "id": "01a131c2-795d-755e-9c0b-aae772129e90",
+        "name": "Христофор",
+        "website": "https://christophor.ru"
+    },
+    {
+        "id": "01a1322b-e1c4-758a-afba-b2819212d6d0",
+        "name": "Агапе",
+        "website": "https://agapebook.ru"
+    },
+    {
+        "id": "01a13246-f38f-7439-bbfb-ca6047aa35d4",
+        "name": "София",
+        "website": "https://sophia.ru"
+    },
+    {
+        "id": "01a1324c-161d-754b-b07e-06a20325fb5d",
+        "name": "ББИ",
+        "website": "https://books.standrews.ru"
+    },
+    {
+        "id": "01a13251-5282-70a2-afc2-3b89da705ec4",
+        "name": "Сирин",
+        "website": "https://sirinbook.ru"
+    },
+    {
+        "id": "01a134af-7b06-7586-afa6-2174a03f599e",
+        "name": "Издательский дом «Жизнь с Богом»",
+        "website": "http://idjsb.ru/"
+    },
+    {
+        "id": "01a134c3-79fb-71dc-9702-b44b7eb243d2",
+        "name": "Свет на Востоке",
+        "website": "https://shop.lio.ru"
+    },
+    {
+        "id": "01a134e6-09fa-73fd-bab9-995ca02be1bf",
+        "name": "Российское Библейское Общество",
+        "website": "https://biblia.ru"
+    },
+    {
+        "id": "01a1351c-9583-7112-9f01-f175671c7361",
+        "name": "Сталинский букварь",
+        "website": "https://stalins-bukvar.ru"
+    },
+    {
+        "id": "01a13529-56ec-751f-921d-59cc6ac1b952",
+        "name": "Тюльпан",
+        "website": "https://tulipsbook.com"
+    },
+    {
+        "id": "01a13536-0323-76c0-a079-c9696cf5636c",
+        "name": "Питер",
+        "website": "https://piter.com"
+    },
+    {
+        "id": "01a1358a-2146-727e-8e73-6460aa10bc0d",
+        "name": "Альпина Паблишер",
+        "website": "https://alpinabook.ru"
+    },
+    {
+        "id": "01a135b2-9ca9-712d-b469-ee26c338e36f",
+        "name": "Попурри",
+        "website": "https://popuri.by"
+    },
+    {
+        "id": "01a13629-7406-74e7-868e-95cd2a9e1d48",
+        "name": "Bookwings",
+        "website": "https://bookwings.pro"
+    },
+    {
+        "id": "01a1367a-d159-76c2-9c6d-3b1a36863905",
+        "name": "Бомбора (Эксмо)",
+        "website": "https://bombora.ru"
+    },
+    {
+        "id": "01a1368d-0570-7067-ad17-dcd15c2289c0",
+        "name": "Ad Marginem",
+        "website": "https://admarginem.ru"
+    },
+    {
+        "id": "01a136c0-785a-7740-a751-39a1c73b9ed5",
+        "name": "Gallery Books",
+        "website": "https://gallerybooks.biz"
+    },
+    {
+        "id": "01a136cd-8f7e-71ca-b79c-2489f9335f36",
+        "name": "Издательство Студии Артемия Лебедева",
+        "website": "https://www.artlebedev.ru/izdal/"
+    },
+    {
+        "id": "",
+        "name": "",
+        "website": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "website": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "website": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "website": ""
+    },
+]
