@@ -1,0 +1,65 @@
+[
+  {
+    "id": "01a13f89-4db8-70d3-8e37-fae38d232904",
+    "title": "Драгоценные истины из греческого языка 1. Осень. 2-е издание",
+    "author_ids": [
+      "01a13f89-b787-741d-b7ae-d9ba28bc299a"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "19.10.2026",
+    "finished": "",
+    "publication_year": 2025,
+    "publication_country": "РФ",
+    "publisher_id": "01a13f88-4ed5-76ad-b977-39d0a000ff53",
+    "isbn": "978-5-6053274-2-4",
+    "cover_url": "./assets/book_covers/rik_renner_dragotsennye_istiny_1_osen.webp",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "book_id": "",
+    "purchased_at": "14.10.2026"
+  },
+  {
+    "id": "01a15878-77f1-72b8-b0e4-a327498bf4e3",
+    "title": "Мир до Потопа. Падшие ангелы, исполины и монстры",
+    "author_ids": [
+      "01a13f89-b787-741d-b7ae-d9ba28bc299a"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2026,
+    "publication_country": "РФ",
+    "publisher_id": "01a13f88-4ed5-76ad-b977-39d0a000ff53",
+    "isbn": "978-5-6053274-3-1",
+    "cover_url": "./assets/book_covers/rik_renner_mir_do_potopa.webp",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "book_id": "",
+    "purchased_at": "14.10.2026"
+  },
+  {
+    "id": "01a1587b-e275-7319-b7c2-aa13598dbd9b",
+    "title": "Крещение Святым Духом",
+    "author_ids": [
+      "01a13f89-b787-741d-b7ae-d9ba28bc299a"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2016,
+    "publication_country": "РФ",
+    "publisher_id": "01a13f88-4ed5-76ad-b977-39d0a000ff53",
+    "isbn": "978-5-91384-031-8",
+    "cover_url": "./assets/book_covers/rik_renner_kreshchenie_sviatym_dukhom.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "book_id": "",
+    "purchased_at": "19.10.2026"
+  }
+]

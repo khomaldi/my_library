@@ -71,10 +71,10 @@
       "01a12bd9-dbd2-769b-8073-f41ad4f4a412",
       "01a12bd9-f399-771d-9321-85c1d427e7c9"
     ],
-    "read": false,
-    "rating": null,
-    "started": "",
-    "finished": "",
+    "read": true,
+    "rating": 10,
+    "started": "12.10.2026",
+    "finished": "17.10.2026",
     "publication_year": 2014,
     "publication_country": "РФ",
     "publisher_id": "01a12bdd-0b04-75f1-b0dc-90095720244f",
@@ -84,7 +84,7 @@
       "01a12b9d-7179-7309-901c-51c41636f532"
     ],
     "ebook_id": "",
-    "purchased_at": ""
+    "purchased_at": "03.10.2026"
   },
   {
     "id": "01a12be5-6069-758c-b1ed-72825511e2a8",
@@ -860,7 +860,7 @@
     ],
     "read": false,
     "rating": null,
-    "started": "",
+    "started": "19.10.2026",
     "finished": "",
     "publication_year": 2015,
     "publication_country": "РФ",
@@ -871,7 +871,7 @@
       "01a12b9d-7179-7309-901c-51c41636f532"
     ],
     "ebook_id": "",
-    "purchased_at": "2020"
+    "purchased_at": "29.11.2020"
   },
   {
     "id": "01a13233-71d7-7488-b063-e00ecdfcf3b2",
@@ -2719,5 +2719,110 @@
     ],
     "ebook_id": "",
     "purchased_at": "25.12.2020"
+  },
+  {
+    "id": "01a16379-0906-75fe-987d-56c776c559db",
+    "title": "Драгоценные истины из греческого языка 1. Осень. 2-е издание",
+    "author_ids": [
+      "01a13f89-b787-741d-b7ae-d9ba28bc299a"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "19.10.2026",
+    "finished": "",
+    "publication_year": 2025,
+    "publication_country": "РФ",
+    "publisher_id": "01a13f88-4ed5-76ad-b977-39d0a000ff53",
+    "isbn": "978-5-6053274-2-4",
+    "cover_url": "./assets/book_covers/rik_renner_dragotsennye_istiny_1_osen.webp",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
+    ],
+    "ebook_id": "01a13f89-4db8-70d3-8e37-fae38d232904",
+    "purchased_at": "19.10.2026"
+  },
+  {
+    "id": "01a1722d-53e8-77cf-bcf1-f5c9e9696f6a",
+    "title": "Драгоценные истины из греческого языка 1. Зима",
+    "author_ids": [
+      "01a13f89-b787-741d-b7ae-d9ba28bc299a"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2025,
+    "publication_country": "РФ",
+    "publisher_id": "01a13f88-4ed5-76ad-b977-39d0a000ff53",
+    "isbn": "978-5-6053274-5-5",
+    "cover_url": "./assets/book_covers/rik_renner_dragotsennye_istiny_1_zima.webp",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
+    ],
+    "ebook_id": "",
+    "purchased_at": "19.10.2026"
+  },
+  {
+    "id": "01a1722e-843d-76fa-9768-424db9df165c",
+    "title": "Драгоценные истины из греческого языка 1. Весна",
+    "author_ids": [
+      "01a13f89-b787-741d-b7ae-d9ba28bc299a"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2025,
+    "publication_country": "РФ",
+    "publisher_id": "01a13f88-4ed5-76ad-b977-39d0a000ff53",
+    "isbn": "978-5-6046853-9-6",
+    "cover_url": "./assets/book_covers/rik_renner_dragotsennye_istiny_1_vesna.webp",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
+    ],
+    "ebook_id": "",
+    "purchased_at": "19.10.2026"
+  },
+  {
+    "id": "01a1722e-d9a8-740e-a9d2-825ae526f59d",
+    "title": "Драгоценные истины из греческого языка 1. Лето",
+    "author_ids": [
+      "01a13f89-b787-741d-b7ae-d9ba28bc299a"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2025,
+    "publication_country": "РФ",
+    "publisher_id": "01a13f88-4ed5-76ad-b977-39d0a000ff53",
+    "isbn": "978-5-6053274-0-0",
+    "cover_url": "./assets/book_covers/rik_renner_dragotsennye_istiny_1_leto.webp",
+    "category_ids": [
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
+    ],
+    "ebook_id": "",
+    "purchased_at": "19.10.2026"
+  },
+  {
+    "id": "",
+    "title": "",
+    "author_ids": [
+      ""
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": ,
+    "publication_country": "",
+    "publisher_id": "",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/",
+    "category_ids": [
+      ""
+    ],
+    "ebook_id": "",
+    "purchased_at": ""
   }
 ]
