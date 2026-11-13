@@ -61,5 +61,278 @@
     ],
     "book_id": "",
     "purchased_at": "19.10.2026"
-  }
+  },
+  {
+    "id": "01a19dab-52d9-7294-87ee-add2303e0292",
+    "title": "Operating in the Courts of Heaven. Revised and Expanded",
+    "author_ids": [
+      "01a19da9-dbab-76d8-b2a3-c82fffdc062e"
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": 2021,
+    "publication_country": "USA",
+    "publisher_id": "01a19db0-0a9f-73ea-9335-e2e600d9c6c6",
+    "isbn": "978-0-7684-5447-5",
+    "cover_url": "./assets/book_covers/robert_henderson_operating_in_the_courts_of_heaven.jpg",
+    "category_ids": [
+      "01a12b9d-7179-7309-901c-51c41636f532"
+    ],
+    "book_id": "",
+    "purchased_at": "02.11.2026"
+  },
+  {
+    "id": "",
+    "title": "",
+    "author_ids": [
+      ""
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": ,
+    "publication_country": "",
+    "publisher_id": "",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/",
+    "category_ids": [
+      ""
+    ],
+    "book_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "author_ids": [
+      ""
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": ,
+    "publication_country": "",
+    "publisher_id": "",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/",
+    "category_ids": [
+      ""
+    ],
+    "book_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "author_ids": [
+      ""
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": ,
+    "publication_country": "",
+    "publisher_id": "",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/",
+    "category_ids": [
+      ""
+    ],
+    "book_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "author_ids": [
+      ""
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": ,
+    "publication_country": "",
+    "publisher_id": "",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/",
+    "category_ids": [
+      ""
+    ],
+    "book_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "author_ids": [
+      ""
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": ,
+    "publication_country": "",
+    "publisher_id": "",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/",
+    "category_ids": [
+      ""
+    ],
+    "book_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "author_ids": [
+      ""
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": ,
+    "publication_country": "",
+    "publisher_id": "",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/",
+    "category_ids": [
+      ""
+    ],
+    "book_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "author_ids": [
+      ""
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": ,
+    "publication_country": "",
+    "publisher_id": "",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/",
+    "category_ids": [
+      ""
+    ],
+    "book_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "author_ids": [
+      ""
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": ,
+    "publication_country": "",
+    "publisher_id": "",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/",
+    "category_ids": [
+      ""
+    ],
+    "book_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "author_ids": [
+      ""
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": ,
+    "publication_country": "",
+    "publisher_id": "",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/",
+    "category_ids": [
+      ""
+    ],
+    "book_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "author_ids": [
+      ""
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": ,
+    "publication_country": "",
+    "publisher_id": "",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/",
+    "category_ids": [
+      ""
+    ],
+    "book_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "author_ids": [
+      ""
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": ,
+    "publication_country": "",
+    "publisher_id": "",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/",
+    "category_ids": [
+      ""
+    ],
+    "book_id": "",
+    "purchased_at": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "author_ids": [
+      ""
+    ],
+    "read": false,
+    "rating": null,
+    "started": "",
+    "finished": "",
+    "publication_year": ,
+    "publication_country": "",
+    "publisher_id": "",
+    "isbn": "",
+    "cover_url": "./assets/book_covers/",
+    "category_ids": [
+      ""
+    ],
+    "book_id": "",
+    "purchased_at": ""
+  },
 ]
