@@ -27,6 +27,8 @@
 
 `finished: string` — Конец чтения.
 
+`pages: ?number` — Количество страниц.
+
 `publication_year: number` — Год издания этого тиража.
 
 `publication_country: string` — Страна издания этого тиража.
@@ -39,7 +41,7 @@
 
 `category_ids: array<string>` — Список ID категорий, к которым относится книга.
 
-`ebook_id: string` — ID электронное версии книги.
+`ebook_id: string` — ID электронной версии книги.
 
 
 ## Category
