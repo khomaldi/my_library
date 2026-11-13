@@ -3032,10 +3032,10 @@
     "author_ids": [
       "01a1d5e2-a3fc-74b3-99ef-0bfac7bda046"
     ],
-    "read": false,
-    "rating": null,
-    "started": "",
-    "finished": "",
+    "read": true,
+    "rating": 6,
+    "started": "13.11.2026",
+    "finished": "13.11.2026",
     "pages": 48,
     "publication_year": 2022,
     "publication_country": "Украина",
