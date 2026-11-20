@@ -3138,114 +3138,114 @@
     "purchased_at": "12.10.2026"
   },
   {
-    "id": "",
-    "title": "",
+    "id": "01a1f960-a44c-736d-bec9-f09ee35324da",
+    "title": "Неумышленное фарисейство",
     "author_ids": [
-      ""
+      "01a1f960-5aa4-765c-baaf-d45a5df06226"
     ],
     "read": false,
     "rating": null,
     "started": "",
     "finished": "",
-    "pages": null,
-    "publication_year": ,
-    "publication_country": "",
-    "publisher_id": "",
-    "isbn": "",
-    "cover_url": "./assets/book_covers/",
+    "pages": 256,
+    "publication_year": 2015,
+    "publication_country": "РФ",
+    "publisher_id": "01a13172-7f66-7689-a88b-ce0e6edc1183",
+    "isbn": "978-5-7454-1996-6",
+    "cover_url": "./assets/book_covers/lerri_osborn_neumyshlennoe_fariseistvo.jpg",
     "category_ids": [
-      ""
+      "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
     ],
     "ebook_id": "",
-    "purchased_at": ""
+    "purchased_at": "12.11.2026"
   },
   {
-    "id": "",
-    "title": "",
+    "id": "01a1f966-2efc-7358-a6b3-e35f268f0752",
+    "title": "7 навыков высокоэффективных людей. Краткая версия",
     "author_ids": [
-      ""
+      "01a1359d-afb1-744a-a7d4-10b933c892f3"
     ],
     "read": false,
     "rating": null,
     "started": "",
     "finished": "",
-    "pages": null,
-    "publication_year": ,
-    "publication_country": "",
-    "publisher_id": "",
-    "isbn": "",
-    "cover_url": "./assets/book_covers/",
+    "pages": 48,
+    "publication_year": 2026,
+    "publication_country": "РФ",
+    "publisher_id": "01a1358a-2146-727e-8e73-6460aa10bc0d",
+    "isbn": "978-5-9614-8943-9",
+    "cover_url": "./assets/book_covers/stiven_kovi_7_navykov_vysokoehffektivnykh_liudei_kratkaia_versia.webp",
     "category_ids": [
-      ""
+      "01a12b9d-7b09-761b-bb0b-d9bf4f74139a"
     ],
     "ebook_id": "",
-    "purchased_at": ""
+    "purchased_at": "12.11.2026"
   },
   {
-    "id": "",
-    "title": "",
+    "id": "01a1f99c-53eb-74ef-9540-f44aa593f2e1",
+    "title": "Братья Карамазовы. Том 1",
     "author_ids": [
-      ""
+      "01a134f6-a428-77de-ac98-a9aa16eb1c01"
     ],
     "read": false,
     "rating": null,
     "started": "",
     "finished": "",
-    "pages": null,
-    "publication_year": ,
-    "publication_country": "",
-    "publisher_id": "",
-    "isbn": "",
-    "cover_url": "./assets/book_covers/",
+    "pages": 480,
+    "publication_year": 2026,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00214-598-0",
+    "cover_url": "./assets/book_covers/fedor_dostoevskii_bratia_karamazovy_tom_1.png",
     "category_ids": [
-      ""
+      "01a12b9d-9459-7090-818f-dc2b10bf0e64"
     ],
     "ebook_id": "",
-    "purchased_at": ""
+    "purchased_at": "10.11.2026"
   },
   {
-    "id": "",
-    "title": "",
+    "id": "01a1f99c-7e58-7108-b66a-17fd40542282",
+    "title": "Братья Карамазовы. Том 2",
     "author_ids": [
-      ""
+      "01a134f6-a428-77de-ac98-a9aa16eb1c01"
     ],
     "read": false,
     "rating": null,
     "started": "",
     "finished": "",
-    "pages": null,
-    "publication_year": ,
-    "publication_country": "",
-    "publisher_id": "",
-    "isbn": "",
-    "cover_url": "./assets/book_covers/",
+    "pages": 672,
+    "publication_year": 2026,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00250-011-6",
+    "cover_url": "./assets/book_covers/fedor_dostoevskii_bratia_karamazovy_tom_2.png",
     "category_ids": [
-      ""
+      "01a12b9d-9459-7090-818f-dc2b10bf0e64"
     ],
     "ebook_id": "",
-    "purchased_at": ""
+    "purchased_at": "10.11.2026"
   },
   {
-    "id": "",
-    "title": "",
+    "id": "01a1f99c-89f1-7697-86a1-aee702e19bb7",
+    "title": "Маленький принц. Планета людей",
     "author_ids": [
-      ""
+      "01a1f99c-32c1-719d-9fb0-143dcd55b34b"
     ],
-    "read": false,
-    "rating": null,
+    "read": true,
+    "rating": 9,
     "started": "",
     "finished": "",
-    "pages": null,
-    "publication_year": ,
-    "publication_country": "",
-    "publisher_id": "",
-    "isbn": "",
-    "cover_url": "./assets/book_covers/",
+    "pages": 224,
+    "publication_year": 2026,
+    "publication_country": "РФ",
+    "publisher_id": "01a12c16-b958-769e-891c-ab187733454a",
+    "isbn": "978-5-00250-623-1",
+    "cover_url": "./assets/book_covers/antuan_de_sent_ekziuperi_malenkii_prints.png",
     "category_ids": [
-      ""
+      "01a12b9d-9459-7090-818f-dc2b10bf0e64"
     ],
     "ebook_id": "",
-    "purchased_at": ""
+    "purchased_at": "10.11.2026"
   },
   {
     "id": "",
