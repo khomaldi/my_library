@@ -2856,7 +2856,7 @@
     ],
     "read": false,
     "rating": null,
-    "started": "19.10.2026",
+    "started": "21.10.2026",
     "finished": "",
     "pages": null,
     "publication_year": 2025,
@@ -2868,7 +2868,7 @@
       "01a12c18-4097-70cc-9a0c-d90a2623a5eb"
     ],
     "ebook_id": "01a13f89-4db8-70d3-8e37-fae38d232904",
-    "purchased_at": "19.10.2026"
+    "purchased_at": "22.10.2026"
   },
   {
     "id": "01a1722d-53e8-77cf-bcf1-f5c9e9696f6a",
@@ -2944,9 +2944,9 @@
       "01a1d5c9-f22e-7039-af60-dc4be6e0cf5a"
     ],
     "read": false,
-    "rating": null,
-    "started": "",
-    "finished": "",
+    "rating": 8,
+    "started": "14.11.2026",
+    "finished": "24.11.2026",
     "pages": 288,
     "publication_year": 2022,
     "publication_country": "Украина",
